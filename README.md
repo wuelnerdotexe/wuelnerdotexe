@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wuelnermartinez
+- 👋 Hi, I’m @wuelnerdotexe
 - 👀 I’m interested in ~~get a girlfriend~~ web development, programming, and lately in desktop environment customization.
 - 🥵 I’m currently learning loads of Neovim keyboard shorcuts.
 - 💞️ I’m looking to collaborate on Platzi.
