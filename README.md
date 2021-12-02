@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/wuelnerdotexe/wuelnerdotexe/main/banner.png">
+    <img src="https://raw.githubusercontent.com/wuelnerdotexe/wuelnerdotexe/main/assets/banner.png">
 </div>
 
 <div align="center">
