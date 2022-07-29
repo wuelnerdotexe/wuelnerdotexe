@@ -17,12 +17,12 @@
     </a>
 </div>
 
-- 🔭 Actualmente estoy trabajando en [Enfocado](https://wuelnerdotexe.github.io/enfocado)
-- 🌱 Actualmente estoy aprendiendo **React**
-- 👨‍💻 Todos mis proyectos estarán disponibles (algún día) en [Mi página web personal](https://wuelnerdotexe.github.io)
-- 💬 Pregúntame sobre **Enfocado, Vim y Linux**
-- 📫 Contáctame en **wuelner.martinez@outlook.com**
-- ⚡ Algo gracioso **No aprobé el curso de mecanografíay soy vimmer**
+- 🔭 Actualmente estoy trabajando en [Enfocado](https://wuelnerdotexe.github.io/enfocado).
+- 🌱 Actualmente estoy aprendiendo **React**.
+- 👨‍💻 Todos mis proyectos estarán disponibles (algún día) en [mi página web personal](https://wuelnerdotexe.github.io).
+- 💬 Pregúntame sobre **Enfocado, Vim y Linux**.
+- 📫 Contáctame en **wuelner.martinez@outlook.com**.
+- ⚡ Algo gracioso **no aprobé el curso de mecanografía y soy vimmer**.
 
 <!---
 wuelnerdotexe/wuelnerdotexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
