@@ -22,7 +22,7 @@
 - 👨‍💻 Todos mis proyectos estarán disponibles (algún día) en [mi página web personal](https://wuelnerdotexe.github.io).
 - 💬 Pregúntame sobre **Enfocado, Vim y Linux**.
 - 📫 Contáctame en **wuelner.martinez@outlook.com**.
-- ⚡ Algo gracioso **no aprobé el curso de mecanografía y soy vimmer**.
+- ⚡ Algo gracioso, **soy vimmer y no aprobé el curso de mecanografía**.
 
 <!---
 wuelnerdotexe/wuelnerdotexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
